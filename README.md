@@ -1,4 +1,4 @@
-# Movie Organizer
+# FolderMovie Organizer
 
 Este script Python ajuda a organizar sua biblioteca de filmes, buscando metadados de filmes no The Movie Database (TMDb) e aplicando-os diretamente aos seus arquivos de vídeo (MP4 e MKV).
 
